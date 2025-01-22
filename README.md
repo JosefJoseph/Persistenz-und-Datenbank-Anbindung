@@ -6,7 +6,7 @@ Installationsanleitung:<br>
 Um die ToDo-App zu installieren, benötigst du Android Studio mit den folgenden Einstellungen: compileSdk = 35, minSdk = 26 und targetSdk = 34. 
 Du solltest außerdem ein Android-Gerät oder einen Emulator zur Verfügung haben, auf dem die App getestet werden kann 
 (die App wurde auf einem Pixel 8 Pro mit API 29 getestet).
-Zuerst musst du den Quellcode des Projekts herunterladen oder das Repository von GitHub klonen: https://github.com/simonkllr/ToDoApp-DB.git.
+Zuerst musst du den Quellcode des Projekts herunterladen oder das Repository von GitHub klonen: https://github.com/JosefJoseph/Persistenz-und-Datenbank-Anbindung<br>
 Achte darauf, dass alle erforderlichen Abhängigkeiten in der build.gradle-Datei korrekt definiert sind. Danach synchronisiere das Projekt mit Gradle,
 indem du in Android Studio den Menüpunkt File > Sync Project with Gradle Files auswählst.
 Sobald das Projekt synchronisiert ist, wählst du ein Zielgerät aus (entweder einen Emulator oder ein physisches Android-Gerät) und
